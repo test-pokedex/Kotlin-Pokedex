@@ -66,8 +66,8 @@ dependencies {
     kapt("androidx.room:room-compiler:2.4.0-alpha03")
 
     // Glide
-    kapt("com.github.bumptech.glide:compiler:4.12.0")
-    implementation("com.github.bumptech.glide:glide:4.12.0")
+    kapt("com.github.bumptech.glide:compiler:4.16.0")
+    implementation("com.github.bumptech.glide:glide:4.16.0")
 
     // Koin
     implementation("io.insert-koin:koin-android:3.1.3")
